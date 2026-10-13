@@ -1,0 +1,10 @@
+# Kreyol IA · Bibliothèque de prompts
+
+> Prompts IA gratuits en kreyòl ayisyen, français et anglais pour le travail haïtien : commerçants, enseignants, avocats, ONG, étudiants, diaspora, création d’images.
+
+## Pages
+- [Bibliothèque de prompts](https://kreyolia.com/) : 39 prompts à copier, personnaliser et coller dans ChatGPT, Claude ou Gemini
+- [Confidentialité](https://kreyolia.com/confidentialite.html) : données collectées et droits
+
+## À propos
+Kreyol IA est une agence d’intelligence artificielle native en kreyòl ayisyen (Haïti, Martinique, Guadeloupe, diaspora). Contact : hello@kreyolia.com
